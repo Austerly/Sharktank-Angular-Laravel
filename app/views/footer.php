@@ -5,7 +5,7 @@
 		</p>
 		
 		<p> Website by: 
-			<a href="#">Austin Hesterly</a>
+			<a href="http://www.austinhesterly.com">Austin Hesterly</a>
 		</p>
 	</div>
 

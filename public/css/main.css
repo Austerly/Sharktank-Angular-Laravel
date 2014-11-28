@@ -1,0 +1,11 @@
+/* Global styling throughout the app */
+/* Global */
+.container {
+  margin-top: 50px; }
+
+/* Styling for the home page only */
+/* Homecontent */
+.homecontent > .row-fluid > .col-sm-4 {
+  margin-bottom: 30px; }
+
+/*# sourceMappingURL=main.css.map */
